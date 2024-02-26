@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android3_6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="body">Body</string>
+    <string name="titl">Titl</string>
+    <string name="post">POST</string>
+    <string name="put">PUT</string>
+    <string name="patch">PATCH</string>
+    <string name="delete">DELETE</string>
+    <string name="back">BACK</string>
+    <string name="info">Информация</string>
+    <string name="title">Title</string>
+</resources>
